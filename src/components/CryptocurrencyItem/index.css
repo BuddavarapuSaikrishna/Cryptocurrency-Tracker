@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+
+.currency-details-container {
+  display: flex;
+  margin-top: 15px;
+  color: #ffffff;
+  justify-content: space-between;
+}
+
+.currency-logo {
+  width: 30px;
+  margin-right: 20px;
+}
+
+.currency-logo-name-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.currency-container {
+  display: flex;
+}
+
+.usd-value {
+  color: #ffffff;
+}
+
+.euro-value {
+  color: #ffffff;
+  margin-left: 20px;
+  margin-right: 20px;
+}

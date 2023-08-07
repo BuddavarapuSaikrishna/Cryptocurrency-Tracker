@@ -1,0 +1,8 @@
+/* Write your CSS here */
+
+.CryptocurrencyTracker-Container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
